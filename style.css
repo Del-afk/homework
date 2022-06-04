@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+form {
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  width: 400px;
+  /* height: 700px; */
+  background-color: #f9f9fa;
+  margin: 30px auto;
+  border: 1px solid #dee0e3;
+}
+.searchbar {
+  padding: 20px 40px 0;
+  width: 400px;
+  border-color: #dee0e3;
+}
+.searchbar .zoom {
+  color: #505050;
+}
+.location {
+  display: block;
+}
+.locationicon {
+  display: inline-block;
+  position: relative;
+  font-size: 24px;
+  color: #505050;
+  margin: 0 30px 0 96px;
+  line-height: 48px;
+}
+.cityname {
+  display: inline-block;
+  font-weight: 300;
+  font-family: "Caveat", cursive;
+  color: #505050;
+  font-size: 40px;
+  margin: 0;
+}
+.hamberger {
+  display: inline-block;
+  position: relative;
+  font-size: 24px;
+  color: #505050;
+  margin: 0 30px 0 30px;
+}
+.pic {
+  margin-bottom: 45px;
+}
+.weatherimg {
+  width: 350px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: -45px;
+}
+.degree {
+  text-align: center;
+  font-weight: 300;
+  font-family: "Caveat", cursive;
+  color: #505050;
+  font-size: 36px;
+  margin: 0;
+}
+.status {
+  text-align: center;
+  font-weight: 300;
+  font-family: "Caveat", cursive;
+  color: #505050;
+  font-size: 36px;
+  margin: -20px;
+  margin-left: -30px;
+}
+.weekday {
+  text-align: left;
+  margin: 50px auto 0;
+  width: 310px;
+}
+.day {
+  font-weight: 300;
+  font-family: "Caveat", cursive;
+  color: #505050;
+  font-size: 36px;
+}
+.weekday .rightside {
+  text-align: right;
+}
+#nowdates {
+  size: 10px;
+  font-size: 30px;
+  padding-top: 25px;
+  text-align: center;
+  font-weight: 300;
+  font-family: "Caveat", cursive;
+  color: #505050;
+}
