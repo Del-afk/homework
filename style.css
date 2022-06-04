@@ -22,6 +22,10 @@ h6 {
   margin: 30px auto;
   border: 1px solid #dee0e3;
 }
+.wrapper2 {
+  width: 400px;
+  margin: 30px auto;
+}
 .searchbar {
   padding: 20px 40px 0;
   width: 400px;
@@ -105,4 +109,13 @@ h6 {
   font-weight: 300;
   font-family: "Caveat", cursive;
   color: #505050;
+}
+.repo {
+  display: block;
+  margin: 0 95px;
+  text-decoration: none;
+}
+.repo a {
+  text-decoration: none;
+  
 }
